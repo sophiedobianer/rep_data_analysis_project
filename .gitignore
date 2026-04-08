@@ -1,0 +1,13 @@
+# R artefacts
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Large data files -- adjust extensions to match your data
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Rendered outputs that can be regenerated
+*.html
+*.pdf
