@@ -3,4 +3,4 @@ title: "README"
 output: html_document
 ---
 
-The data is on the occurrence of whale sharks in the different oceans across the world. 
+The data is downloaded from https://zenodo.org/records/1403351 and is part of the study: "Change in singing behavior of humpback whales caused by shipping noise" by Tsujii et al., 2018
